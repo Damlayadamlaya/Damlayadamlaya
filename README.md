@@ -1,6 +1,6 @@
 ### Hi there 👋, Selin Damla Dikme
 #### Software Developer
-![Software Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Software Developer](‪C:\Users\USER\Desktop\sw.webp)
 
 welcome to my profile
 
