@@ -1,6 +1,7 @@
 ### Hi there 👋, Selin Damla Dikme
 #### Software Developer
-![Software Developer](‪C:\Users\USER\Desktop\sw.webp)
+![Software Developer](‪sw.webp)
+![Yazılım Geliştirme Resmi](sw.webp "Yazılım Geliştirme")
 
 welcome to my profile
 
