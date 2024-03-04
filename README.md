@@ -1,5 +1,7 @@
 ### Hi there 👋, Selin Damla Dikme
 #### Software Developer
+![Alternatif metin](sw.webp "İsteğe bağlı başlık")
+
 ![Yazılım Geliştirme Resmi]( (sw.webp"Yazılım Geliştirme")
 
 <img src="‪sw.webp" width="300" height="300" alt="Alternatif Metin">
