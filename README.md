@@ -1,6 +1,6 @@
 ### Hi there 👋, Selin Damla Dikme
 #### Software Developer
-![Alternatif metin](sw.webp "İsteğe bağlı başlık")
+![Alternatif metin](sw.webp "yazılımla alakalı fotograf")
 
 
 
